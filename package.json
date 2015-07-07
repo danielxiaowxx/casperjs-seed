@@ -1,0 +1,18 @@
+{
+  "name": "testCasperjs",
+  "version": "1.0.0",
+  "description": "casperjs --verbose test --includes=common.js tests/gmc-order/product-info.js",
+  "main": "common.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^2.1.4",
+    "lodash": "^3.10.0"
+  }
+}
